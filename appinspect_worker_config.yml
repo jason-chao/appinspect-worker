@@ -1,0 +1,23 @@
+---
+AppInspectWorkerConfig:
+  service_rpc_url: 
+  service_api_base_url: 
+AppInspectOpsConfig:
+  apk_buffer_basepath: 
+  apk_decoded_basepath: 
+  apk_parquet_basepath: 
+  apk_archive_basepath: 
+  apktool_path: 
+  keytool_path: 
+  jarsigner_path: 
+  appstore_query_cli_path: 
+  appstore_query_buffer_path: 
+  googleplay_username: 
+  googleplay_app_password: 
+  googleplay_default_locale: 
+  googleplay_default_timezone: 
+APKAnalysisConfig:
+  java_home: 
+  spark_home: 
+  spark_master: 
+  apk_parquet_basepath: 
